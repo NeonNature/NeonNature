@@ -6,7 +6,7 @@ Front End Developer
 
 I used to be very focused on becoming a great React developer... until I realized focusing on a single aspect has limited my views and skills. Now I'm on the great journey to try out every interesting tech stuff I find!
 
-* 🌍  I'm based in Myanmar
+* 🌍  I'm from Myanmar, but currently based in Thailand.
 * 🖥️  See my portfolio at [Voyager-Neon](https://voyager-neon.netlify.app/)
 * ✉️  You can contact me at [mustachemaung@gmail.com](mailto:mustachemaung@gmail.com)
 * 🧠  I'm learning to become a jack of all trades
