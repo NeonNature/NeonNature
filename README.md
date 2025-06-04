@@ -10,7 +10,6 @@ I used to be very focused on becoming a great React developer... until I realize
 * 🖥️  See my portfolio at [Voyager-Neon](https://voyager-neon.netlify.app/)
 * ✉️  You can contact me at [mustachemaung@gmail.com](mailto:mustachemaung@gmail.com)
 * 🧠  I'm learning to become a jack of all trades
-* ⚡  My involvement may appear modest on the contribution front. The reason behind this is that, over the past four years, I've primarily engaged through diverse company-based GitHub and Bitbucket accounts.
 
 ### Skills
 
